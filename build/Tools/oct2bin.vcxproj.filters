@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Document\CSLearn\Apollo\virtualagc-master\Tools\oct2bin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Document\CSLearn\Apollo\virtualagc-master\Tools\utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Document\CSLearn\Apollo\virtualagc-master\Tools\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D2E7CBC6-3656-3429-ACDC-C70012517EA4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

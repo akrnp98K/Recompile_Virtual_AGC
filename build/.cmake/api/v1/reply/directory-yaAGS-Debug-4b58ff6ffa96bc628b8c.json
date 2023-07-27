@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"yaAGS/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"yaAGS/Debug/yaAGS.exe"
+			],
+			"targetId" : "yaAGS::@3b9e0f04b7be05367b93",
+			"targetIndex" : 19,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "yaAGS",
+		"source" : "yaAGS"
+	}
+}

@@ -1,0 +1,2044 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "Tools",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Tools-Debug-4e2a8cc204da53737eda.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Tools",
+					"targetIndexes" : 
+					[
+						7,
+						9,
+						13,
+						14,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "Luminary099",
+					"jsonFile" : "directory-Luminary099-Debug-17b73411cb0c7a41dae0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Luminary099",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "yaAGC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaAGC-Debug-9b7e4fae99432b69a070.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaAGC",
+					"targetIndexes" : 
+					[
+						11,
+						15,
+						18
+					]
+				},
+				{
+					"build" : "yaAGS",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaAGS-Debug-4b58ff6ffa96bc628b8c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaAGS",
+					"targetIndexes" : 
+					[
+						12,
+						19
+					]
+				},
+				{
+					"build" : "yaASM",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaASM-Debug-cddd3b75a6ea6238e1fb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaASM",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "yaDSKY2",
+					"jsonFile" : "directory-yaDSKY2-Debug-3012cac5882c5c48e562.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaDSKY2"
+				},
+				{
+					"build" : "yaLEMAP",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaLEMAP-Debug-8a5e7f46dc5cae7a1bc2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaLEMAP",
+					"targetIndexes" : 
+					[
+						8,
+						21
+					]
+				},
+				{
+					"build" : "yaLVDC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaLVDC-Debug-db5bc0641224b978d115.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaLVDC",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "yaOBC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaOBC-Debug-1881e52b82937c24ea05.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaOBC",
+					"targetIndexes" : 
+					[
+						10,
+						23
+					]
+				},
+				{
+					"build" : "yaTelemetry",
+					"jsonFile" : "directory-yaTelemetry-Debug-38eae2f3fa64aaf85b64.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaTelemetry"
+				},
+				{
+					"build" : "yaYUL",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaYUL-Debug-7b4243323dfa7cb9e312.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaYUL",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"build" : "yaUniverse",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaUniverse-Debug-97422e25741af41bf0e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaUniverse",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "yaUplinkBlock1",
+					"jsonFile" : "directory-yaUplinkBlock1-Debug-fc998af4c4078f9d2ca4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaUplinkBlock1"
+				},
+				{
+					"build" : "jWiz",
+					"jsonFile" : "directory-jWiz-Debug-93d1074826ac6d41e259.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "jWiz"
+				},
+				{
+					"build" : "enet",
+					"jsonFile" : "directory-enet-Debug-c2912ea8268c02bc8cf5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "enet"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"name" : "virtualAGC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-2b944621ddf185e56692.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Continuous::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Continuous-Debug-12845e0f7ad846402f67.json",
+					"name" : "Continuous",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Experimental::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Experimental-Debug-96ecb8117fa96c054147.json",
+					"name" : "Experimental",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MAIN.agc.bin::@d376083db84828b4f5fb",
+					"jsonFile" : "target-MAIN.agc.bin-Debug-bd004f25496f79fd2715.json",
+					"name" : "MAIN.agc.bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Nightly::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Nightly-Debug-fdcbc28f1ac0cb3cca06.json",
+					"name" : "Nightly",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyMemoryCheck::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyMemoryCheck-Debug-6d43bcaed19770c80891.json",
+					"name" : "NightlyMemoryCheck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-4f4ed29a707869bbb23c.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "bdiffhead::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-bdiffhead-Debug-d00a660fac1a21aa539f.json",
+					"name" : "bdiffhead",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "binLEMAP::@be50dc71a19806471264",
+					"jsonFile" : "target-binLEMAP-Debug-e9104d8fea59316361b6.json",
+					"name" : "binLEMAP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "checkdec::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-checkdec-Debug-42551a1fc9aabc4be026.json",
+					"name" : "checkdec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "enetHost::@d5b560d3d1b86f5d7e10",
+					"jsonFile" : "target-enetHost-Debug-7cf9ae4e7aaa5447dac3.json",
+					"name" : "enetHost",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "libyaAGC::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-libyaAGC-Debug-1682122790dfad696948.json",
+					"name" : "libyaAGC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "libyaAGS::@3b9e0f04b7be05367b93",
+					"jsonFile" : "target-libyaAGS-Debug-0edbc0f3d422f9fed69b.json",
+					"name" : "libyaAGS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "listing2binsource::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-listing2binsource-Debug-4151eeeceea248478c4b.json",
+					"name" : "listing2binsource",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "oct2bin::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-oct2bin-Debug-03a5a38465fa19bf9770.json",
+					"name" : "oct2bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "regex::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-regex-Debug-ca7794c8ab2f75d97ffe.json",
+					"name" : "regex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "split-interp::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-split-interp-Debug-469dceb77d60bf6f42a2.json",
+					"name" : "split-interp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "webb2burkey-rope::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-webb2burkey-rope-Debug-4a7d0aa96f9a95eb177e.json",
+					"name" : "webb2burkey-rope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "yaAGC::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-yaAGC-Debug-e7b51674bc246ce1f1fd.json",
+					"name" : "yaAGC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "yaAGS::@3b9e0f04b7be05367b93",
+					"jsonFile" : "target-yaAGS-Debug-62f72ca1abce1132170a.json",
+					"name" : "yaAGS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "yaASM::@42afee94ccfdc772f2d0",
+					"jsonFile" : "target-yaASM-Debug-ab89a4194e39fd7e999a.json",
+					"name" : "yaASM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "yaLEMAP::@be50dc71a19806471264",
+					"jsonFile" : "target-yaLEMAP-Debug-721ad6572452de891fcb.json",
+					"name" : "yaLEMAP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "yaLVDC::@c8a857cba206a105684c",
+					"jsonFile" : "target-yaLVDC-Debug-08ab455cbe281ff381ca.json",
+					"name" : "yaLVDC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "yaOBC::@d5b560d3d1b86f5d7e10",
+					"jsonFile" : "target-yaOBC-Debug-4082985d39c4f860343f.json",
+					"name" : "yaOBC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "yaUniverse::@608a28940640b52107e4",
+					"jsonFile" : "target-yaUniverse-Debug-90482832b7e30265a523.json",
+					"name" : "yaUniverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "yaYUL::@4d8f0722e2739713f867",
+					"jsonFile" : "target-yaYUL-Debug-88227660e5df1958e573.json",
+					"name" : "yaYUL",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "Tools",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Tools-Release-ab4d231eff4061b8637c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Tools",
+					"targetIndexes" : 
+					[
+						7,
+						9,
+						13,
+						14,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "Luminary099",
+					"jsonFile" : "directory-Luminary099-Release-17b73411cb0c7a41dae0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Luminary099",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "yaAGC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaAGC-Release-813f0fe0fe61324abbcc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaAGC",
+					"targetIndexes" : 
+					[
+						11,
+						15,
+						18
+					]
+				},
+				{
+					"build" : "yaAGS",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaAGS-Release-9ed3a8396c95143a8430.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaAGS",
+					"targetIndexes" : 
+					[
+						12,
+						19
+					]
+				},
+				{
+					"build" : "yaASM",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaASM-Release-2ea04ab723bd329be21d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaASM",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "yaDSKY2",
+					"jsonFile" : "directory-yaDSKY2-Release-3012cac5882c5c48e562.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaDSKY2"
+				},
+				{
+					"build" : "yaLEMAP",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaLEMAP-Release-458c556928b3e9fe93c8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaLEMAP",
+					"targetIndexes" : 
+					[
+						8,
+						21
+					]
+				},
+				{
+					"build" : "yaLVDC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaLVDC-Release-c4a71d287663e6848741.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaLVDC",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "yaOBC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaOBC-Release-f214341bedb86bd04b39.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaOBC",
+					"targetIndexes" : 
+					[
+						10,
+						23
+					]
+				},
+				{
+					"build" : "yaTelemetry",
+					"jsonFile" : "directory-yaTelemetry-Release-38eae2f3fa64aaf85b64.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaTelemetry"
+				},
+				{
+					"build" : "yaYUL",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaYUL-Release-ea96a382a820edbf2800.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaYUL",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"build" : "yaUniverse",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaUniverse-Release-4adb70d5c7572816aac0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaUniverse",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "yaUplinkBlock1",
+					"jsonFile" : "directory-yaUplinkBlock1-Release-fc998af4c4078f9d2ca4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaUplinkBlock1"
+				},
+				{
+					"build" : "jWiz",
+					"jsonFile" : "directory-jWiz-Release-93d1074826ac6d41e259.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "jWiz"
+				},
+				{
+					"build" : "enet",
+					"jsonFile" : "directory-enet-Release-c2912ea8268c02bc8cf5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "enet"
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"name" : "virtualAGC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-2b944621ddf185e56692.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Continuous::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Continuous-Release-12845e0f7ad846402f67.json",
+					"name" : "Continuous",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Experimental::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Experimental-Release-96ecb8117fa96c054147.json",
+					"name" : "Experimental",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MAIN.agc.bin::@d376083db84828b4f5fb",
+					"jsonFile" : "target-MAIN.agc.bin-Release-bd004f25496f79fd2715.json",
+					"name" : "MAIN.agc.bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Nightly::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Nightly-Release-fdcbc28f1ac0cb3cca06.json",
+					"name" : "Nightly",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyMemoryCheck::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyMemoryCheck-Release-6d43bcaed19770c80891.json",
+					"name" : "NightlyMemoryCheck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-4f4ed29a707869bbb23c.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "bdiffhead::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-bdiffhead-Release-d69a7eb3a89195d7bd24.json",
+					"name" : "bdiffhead",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "binLEMAP::@be50dc71a19806471264",
+					"jsonFile" : "target-binLEMAP-Release-29f07b8940eaa437ebe3.json",
+					"name" : "binLEMAP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "checkdec::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-checkdec-Release-e2e12ba89f857e0abf1a.json",
+					"name" : "checkdec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "enetHost::@d5b560d3d1b86f5d7e10",
+					"jsonFile" : "target-enetHost-Release-cc6c85fd2d7513f7ef98.json",
+					"name" : "enetHost",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "libyaAGC::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-libyaAGC-Release-21731ba51581ead93b52.json",
+					"name" : "libyaAGC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "libyaAGS::@3b9e0f04b7be05367b93",
+					"jsonFile" : "target-libyaAGS-Release-b8a068b8ebc894c032a9.json",
+					"name" : "libyaAGS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "listing2binsource::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-listing2binsource-Release-12cd4e376c505521a915.json",
+					"name" : "listing2binsource",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "oct2bin::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-oct2bin-Release-b1a87539836cc4390bd0.json",
+					"name" : "oct2bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "regex::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-regex-Release-81ae2cc3f235a1f43e82.json",
+					"name" : "regex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "split-interp::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-split-interp-Release-5d930d7163b7c9fb73b8.json",
+					"name" : "split-interp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "webb2burkey-rope::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-webb2burkey-rope-Release-be3f0d09b34760857cbc.json",
+					"name" : "webb2burkey-rope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "yaAGC::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-yaAGC-Release-dd0a5701140a419490e3.json",
+					"name" : "yaAGC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "yaAGS::@3b9e0f04b7be05367b93",
+					"jsonFile" : "target-yaAGS-Release-be2a7db51f1ce872098b.json",
+					"name" : "yaAGS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "yaASM::@42afee94ccfdc772f2d0",
+					"jsonFile" : "target-yaASM-Release-9d9849ba85bdbc1f8eef.json",
+					"name" : "yaASM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "yaLEMAP::@be50dc71a19806471264",
+					"jsonFile" : "target-yaLEMAP-Release-4f6f1eee69c798d87f79.json",
+					"name" : "yaLEMAP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "yaLVDC::@c8a857cba206a105684c",
+					"jsonFile" : "target-yaLVDC-Release-6fc15f47837600b2455b.json",
+					"name" : "yaLVDC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "yaOBC::@d5b560d3d1b86f5d7e10",
+					"jsonFile" : "target-yaOBC-Release-e6a00f76e7d009e20b3d.json",
+					"name" : "yaOBC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "yaUniverse::@608a28940640b52107e4",
+					"jsonFile" : "target-yaUniverse-Release-aaf1e8f1499545069fca.json",
+					"name" : "yaUniverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "yaYUL::@4d8f0722e2739713f867",
+					"jsonFile" : "target-yaYUL-Release-36ca67fece5122af54a7.json",
+					"name" : "yaYUL",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "Tools",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Tools-MinSizeRel-dd34618e2e6b8afd0e62.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Tools",
+					"targetIndexes" : 
+					[
+						7,
+						9,
+						13,
+						14,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "Luminary099",
+					"jsonFile" : "directory-Luminary099-MinSizeRel-17b73411cb0c7a41dae0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Luminary099",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "yaAGC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaAGC-MinSizeRel-1e2ccd9159236bd494b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaAGC",
+					"targetIndexes" : 
+					[
+						11,
+						15,
+						18
+					]
+				},
+				{
+					"build" : "yaAGS",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaAGS-MinSizeRel-b72f14da2f7012784d62.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaAGS",
+					"targetIndexes" : 
+					[
+						12,
+						19
+					]
+				},
+				{
+					"build" : "yaASM",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaASM-MinSizeRel-0c04c44abb0dc271ce19.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaASM",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "yaDSKY2",
+					"jsonFile" : "directory-yaDSKY2-MinSizeRel-3012cac5882c5c48e562.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaDSKY2"
+				},
+				{
+					"build" : "yaLEMAP",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaLEMAP-MinSizeRel-c9b7204adf0bf99b74b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaLEMAP",
+					"targetIndexes" : 
+					[
+						8,
+						21
+					]
+				},
+				{
+					"build" : "yaLVDC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaLVDC-MinSizeRel-8e5c36c41460396e51f3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaLVDC",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "yaOBC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaOBC-MinSizeRel-3528673223001d0fccff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaOBC",
+					"targetIndexes" : 
+					[
+						10,
+						23
+					]
+				},
+				{
+					"build" : "yaTelemetry",
+					"jsonFile" : "directory-yaTelemetry-MinSizeRel-38eae2f3fa64aaf85b64.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaTelemetry"
+				},
+				{
+					"build" : "yaYUL",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaYUL-MinSizeRel-996e7d9459e4ed66608b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaYUL",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"build" : "yaUniverse",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaUniverse-MinSizeRel-808c802b41962dbd2d17.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaUniverse",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "yaUplinkBlock1",
+					"jsonFile" : "directory-yaUplinkBlock1-MinSizeRel-fc998af4c4078f9d2ca4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaUplinkBlock1"
+				},
+				{
+					"build" : "jWiz",
+					"jsonFile" : "directory-jWiz-MinSizeRel-93d1074826ac6d41e259.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "jWiz"
+				},
+				{
+					"build" : "enet",
+					"jsonFile" : "directory-enet-MinSizeRel-c2912ea8268c02bc8cf5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "enet"
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"name" : "virtualAGC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-2b944621ddf185e56692.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Continuous::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Continuous-MinSizeRel-12845e0f7ad846402f67.json",
+					"name" : "Continuous",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Experimental::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Experimental-MinSizeRel-96ecb8117fa96c054147.json",
+					"name" : "Experimental",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MAIN.agc.bin::@d376083db84828b4f5fb",
+					"jsonFile" : "target-MAIN.agc.bin-MinSizeRel-bd004f25496f79fd2715.json",
+					"name" : "MAIN.agc.bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Nightly::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Nightly-MinSizeRel-fdcbc28f1ac0cb3cca06.json",
+					"name" : "Nightly",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyMemoryCheck::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyMemoryCheck-MinSizeRel-6d43bcaed19770c80891.json",
+					"name" : "NightlyMemoryCheck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-4f4ed29a707869bbb23c.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "bdiffhead::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-bdiffhead-MinSizeRel-a22a56d98a627845aee8.json",
+					"name" : "bdiffhead",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "binLEMAP::@be50dc71a19806471264",
+					"jsonFile" : "target-binLEMAP-MinSizeRel-262a28b52f42bd3fee9f.json",
+					"name" : "binLEMAP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "checkdec::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-checkdec-MinSizeRel-72cd6e6b04ded6f37e57.json",
+					"name" : "checkdec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "enetHost::@d5b560d3d1b86f5d7e10",
+					"jsonFile" : "target-enetHost-MinSizeRel-8b35abd9b430c4042972.json",
+					"name" : "enetHost",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "libyaAGC::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-libyaAGC-MinSizeRel-32f9876c6cd4fa9b31e4.json",
+					"name" : "libyaAGC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "libyaAGS::@3b9e0f04b7be05367b93",
+					"jsonFile" : "target-libyaAGS-MinSizeRel-071a826dde9c59d63339.json",
+					"name" : "libyaAGS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "listing2binsource::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-listing2binsource-MinSizeRel-63e38c967d74d9793464.json",
+					"name" : "listing2binsource",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "oct2bin::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-oct2bin-MinSizeRel-9c4f2d87f7275026fc41.json",
+					"name" : "oct2bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "regex::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-regex-MinSizeRel-18e0affeacdd30cbcfb9.json",
+					"name" : "regex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "split-interp::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-split-interp-MinSizeRel-aa9cb9d1c6fb633eb88c.json",
+					"name" : "split-interp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "webb2burkey-rope::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-webb2burkey-rope-MinSizeRel-2d6107c748694b4d1d5c.json",
+					"name" : "webb2burkey-rope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "yaAGC::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-yaAGC-MinSizeRel-003da5974cd388c6cec8.json",
+					"name" : "yaAGC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "yaAGS::@3b9e0f04b7be05367b93",
+					"jsonFile" : "target-yaAGS-MinSizeRel-9372aa920dca83e498de.json",
+					"name" : "yaAGS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "yaASM::@42afee94ccfdc772f2d0",
+					"jsonFile" : "target-yaASM-MinSizeRel-e4724fb80bd17fab5eb2.json",
+					"name" : "yaASM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "yaLEMAP::@be50dc71a19806471264",
+					"jsonFile" : "target-yaLEMAP-MinSizeRel-245d5c446332e692400f.json",
+					"name" : "yaLEMAP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "yaLVDC::@c8a857cba206a105684c",
+					"jsonFile" : "target-yaLVDC-MinSizeRel-56cc44998514c05f3512.json",
+					"name" : "yaLVDC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "yaOBC::@d5b560d3d1b86f5d7e10",
+					"jsonFile" : "target-yaOBC-MinSizeRel-31f6b1fed36d673e9a01.json",
+					"name" : "yaOBC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "yaUniverse::@608a28940640b52107e4",
+					"jsonFile" : "target-yaUniverse-MinSizeRel-0b8bb65729ed3c63a6ea.json",
+					"name" : "yaUniverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "yaYUL::@4d8f0722e2739713f867",
+					"jsonFile" : "target-yaYUL-MinSizeRel-c0bca922edf6358dc936.json",
+					"name" : "yaYUL",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "Tools",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Tools-RelWithDebInfo-9eb963db0537b9616aa1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Tools",
+					"targetIndexes" : 
+					[
+						7,
+						9,
+						13,
+						14,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "Luminary099",
+					"jsonFile" : "directory-Luminary099-RelWithDebInfo-17b73411cb0c7a41dae0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Luminary099",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "yaAGC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaAGC-RelWithDebInfo-222aede186e3fba4de78.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaAGC",
+					"targetIndexes" : 
+					[
+						11,
+						15,
+						18
+					]
+				},
+				{
+					"build" : "yaAGS",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaAGS-RelWithDebInfo-964a12e7bb4a361888d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaAGS",
+					"targetIndexes" : 
+					[
+						12,
+						19
+					]
+				},
+				{
+					"build" : "yaASM",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaASM-RelWithDebInfo-53a6e002fe14a956a497.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaASM",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "yaDSKY2",
+					"jsonFile" : "directory-yaDSKY2-RelWithDebInfo-3012cac5882c5c48e562.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaDSKY2"
+				},
+				{
+					"build" : "yaLEMAP",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaLEMAP-RelWithDebInfo-05bdd1f60ae3af5b1633.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaLEMAP",
+					"targetIndexes" : 
+					[
+						8,
+						21
+					]
+				},
+				{
+					"build" : "yaLVDC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaLVDC-RelWithDebInfo-bdf0c999a7401c7198e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaLVDC",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "yaOBC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaOBC-RelWithDebInfo-a9c23215903fc49d146a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaOBC",
+					"targetIndexes" : 
+					[
+						10,
+						23
+					]
+				},
+				{
+					"build" : "yaTelemetry",
+					"jsonFile" : "directory-yaTelemetry-RelWithDebInfo-38eae2f3fa64aaf85b64.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaTelemetry"
+				},
+				{
+					"build" : "yaYUL",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaYUL-RelWithDebInfo-38af99ffd21c6d080312.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaYUL",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"build" : "yaUniverse",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-yaUniverse-RelWithDebInfo-750d9be5b372f16b49a9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaUniverse",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "yaUplinkBlock1",
+					"jsonFile" : "directory-yaUplinkBlock1-RelWithDebInfo-fc998af4c4078f9d2ca4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "yaUplinkBlock1"
+				},
+				{
+					"build" : "jWiz",
+					"jsonFile" : "directory-jWiz-RelWithDebInfo-93d1074826ac6d41e259.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "jWiz"
+				},
+				{
+					"build" : "enet",
+					"jsonFile" : "directory-enet-RelWithDebInfo-c2912ea8268c02bc8cf5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "enet"
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"name" : "virtualAGC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-2b944621ddf185e56692.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Continuous::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Continuous-RelWithDebInfo-12845e0f7ad846402f67.json",
+					"name" : "Continuous",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Experimental::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Experimental-RelWithDebInfo-96ecb8117fa96c054147.json",
+					"name" : "Experimental",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MAIN.agc.bin::@d376083db84828b4f5fb",
+					"jsonFile" : "target-MAIN.agc.bin-RelWithDebInfo-bd004f25496f79fd2715.json",
+					"name" : "MAIN.agc.bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Nightly::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Nightly-RelWithDebInfo-fdcbc28f1ac0cb3cca06.json",
+					"name" : "Nightly",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NightlyMemoryCheck::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NightlyMemoryCheck-RelWithDebInfo-6d43bcaed19770c80891.json",
+					"name" : "NightlyMemoryCheck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-4f4ed29a707869bbb23c.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "bdiffhead::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-bdiffhead-RelWithDebInfo-0ae8ac67ae4ead57d69f.json",
+					"name" : "bdiffhead",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "binLEMAP::@be50dc71a19806471264",
+					"jsonFile" : "target-binLEMAP-RelWithDebInfo-8a45030b636396a69cc2.json",
+					"name" : "binLEMAP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "checkdec::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-checkdec-RelWithDebInfo-966b33ec2f1613f37c83.json",
+					"name" : "checkdec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "enetHost::@d5b560d3d1b86f5d7e10",
+					"jsonFile" : "target-enetHost-RelWithDebInfo-fbad462e0e6b75d18c9a.json",
+					"name" : "enetHost",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "libyaAGC::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-libyaAGC-RelWithDebInfo-3d501b37f9cbddd9a126.json",
+					"name" : "libyaAGC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "libyaAGS::@3b9e0f04b7be05367b93",
+					"jsonFile" : "target-libyaAGS-RelWithDebInfo-9d0b3728cf47cf8d28cf.json",
+					"name" : "libyaAGS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "listing2binsource::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-listing2binsource-RelWithDebInfo-66343f6a379265523e64.json",
+					"name" : "listing2binsource",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "oct2bin::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-oct2bin-RelWithDebInfo-acbbb24c533e4bd9f1a6.json",
+					"name" : "oct2bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "regex::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-regex-RelWithDebInfo-238ca827e3fcd96a807d.json",
+					"name" : "regex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "split-interp::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-split-interp-RelWithDebInfo-58c079efca38dc62fc14.json",
+					"name" : "split-interp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "webb2burkey-rope::@214e036bcfb94a4c2bfc",
+					"jsonFile" : "target-webb2burkey-rope-RelWithDebInfo-b4d64c3e92c4bcc59aa2.json",
+					"name" : "webb2burkey-rope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "yaAGC::@f04bef84d0a6b6c33670",
+					"jsonFile" : "target-yaAGC-RelWithDebInfo-ebbe601e26c291c898db.json",
+					"name" : "yaAGC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "yaAGS::@3b9e0f04b7be05367b93",
+					"jsonFile" : "target-yaAGS-RelWithDebInfo-0354346ac595a7f84907.json",
+					"name" : "yaAGS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "yaASM::@42afee94ccfdc772f2d0",
+					"jsonFile" : "target-yaASM-RelWithDebInfo-2ea63e41a1a93015693d.json",
+					"name" : "yaASM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "yaLEMAP::@be50dc71a19806471264",
+					"jsonFile" : "target-yaLEMAP-RelWithDebInfo-0ae114449dfd0245d189.json",
+					"name" : "yaLEMAP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "yaLVDC::@c8a857cba206a105684c",
+					"jsonFile" : "target-yaLVDC-RelWithDebInfo-6e8caf088a004aaf54b0.json",
+					"name" : "yaLVDC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "yaOBC::@d5b560d3d1b86f5d7e10",
+					"jsonFile" : "target-yaOBC-RelWithDebInfo-16f153f7e63d84992624.json",
+					"name" : "yaOBC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "yaUniverse::@608a28940640b52107e4",
+					"jsonFile" : "target-yaUniverse-RelWithDebInfo-a8bfc599ba7633827d67.json",
+					"name" : "yaUniverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "yaYUL::@4d8f0722e2739713f867",
+					"jsonFile" : "target-yaYUL-RelWithDebInfo-b7ad9e726affcc1057fa.json",
+					"name" : "yaYUL",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Document/CSLearn/Apollo/virtualagc-master/build",
+		"source" : "D:/Document/CSLearn/Apollo/virtualagc-master"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

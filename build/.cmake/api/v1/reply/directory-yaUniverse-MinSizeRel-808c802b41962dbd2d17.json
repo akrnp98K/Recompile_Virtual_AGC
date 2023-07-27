@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"yaUniverse/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"yaUniverse/MinSizeRel/yaUniverse.exe"
+			],
+			"targetId" : "yaUniverse::@608a28940640b52107e4",
+			"targetIndex" : 24,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "yaUniverse",
+		"source" : "yaUniverse"
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"yaYUL/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"yaYUL/RelWithDebInfo/yaYUL.exe"
+			],
+			"targetId" : "yaYUL::@4d8f0722e2739713f867",
+			"targetIndex" : 25,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "yaYUL",
+		"source" : "yaYUL"
+	}
+}
