@@ -1,0 +1,22 @@
+C/ Adapted from PDF p. 260 of "Programming in HAL/S".
+
+D INCLUDE TEMPLATE IMU_DATA
+  DECLARE XTRA PROCEDURE;
+
+E                        +
+M    CALL XTRA ASSIGN(IMU_INPT     );
+S			      BEST;
+
+  XTRA:
+  PROCEDURE ASSIGN(BEST_IMU);
+     DECLARE BEST_IMU IMU_DATA-STRUCTURE;
+     
+C		...
+
+M    PITCH_ANGLE = SCALAR(BEST_IMU.ATTITUDE  );
+S					   1
+
+C		...
+
+  CLOSE XTRA;
+ 
