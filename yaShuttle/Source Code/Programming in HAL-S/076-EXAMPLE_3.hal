@@ -1,0 +1,17 @@
+C/ From PDF p. 76 of "Programming in HAL/S".
+
+  EXAMPLE_3:
+  PROGRAM;
+     DECLARE Q1 BOOLEAN;
+E       .
+M    IF Q1 = TRUE THEN
+
+	DO;
+	
+C	...
+C	...
+C	...
+
+	END;
+  CLOSE EXAMPLE_3;
+  

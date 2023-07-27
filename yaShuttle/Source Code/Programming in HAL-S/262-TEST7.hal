@@ -1,0 +1,14 @@
+C/ Adapted from PDF p. 262 of "Programming in HAL/S".
+
+     STRUCTURE IMU_DATA:
+        1 DELTA_V ARRAY(3) INTEGER DOUBLE,
+        1 ATTITUDE ARRAY(3) INTEGER,
+        1 STATUS BIT(16);
+        
+E						              +
+M    DECLARE BEST_IMU NAME IMU_DATA-STRUCTURE INITIAL(NAME(IMU_INPT  ));;
+S								   2;
+
+E               +
+M    IF NAME(BEST_IMU) = NAME(NULL) THEN
+        WRITE(6) 'BEST IMU NOT CHOSEN';  
